@@ -1,0 +1,225 @@
+Performance Summary of --> Azizul :
+Employee id: 6
+Employee name: Azizul
+Total Tasks: 735
+Average Tasks completed: 61.25
+Maximum Tasks completed: 97
+Minimum Tasks completed: 6
+Minimum Tasks completed: 6
+Madian Tasks completed: 64.0
+Mode Tasks: 6
+Consistency Score of Employee: 2.166163335342617
+Performance Trend of Enployee: Improving
+--------****-------
+
+
+Performance Summary of --> Shohag :
+Employee id: 11
+Employee name: Shohag
+Total Tasks: 690
+Average Tasks completed: 57.5
+Maximum Tasks completed: 93
+Minimum Tasks completed: 9
+Minimum Tasks completed: 9
+Madian Tasks completed: 59.0
+Mode Tasks: 9
+Consistency Score of Employee: 2.3013812432433056
+Performance Trend of Enployee: Declining
+--------****-------
+
+
+Performance Summary of --> Shakil :
+Employee id: 4
+Employee name: Shakil
+Total Tasks: 676
+Average Tasks completed: 56.333333333333336
+Maximum Tasks completed: 90
+Minimum Tasks completed: 10
+Minimum Tasks completed: 10
+Madian Tasks completed: 69.0
+Mode Tasks: 10
+Consistency Score of Employee: 1.8634543208995031
+Performance Trend of Enployee: Stable
+--------****-------
+
+
+Performance Summary of --> Shihab :
+Employee id: 3
+Employee name: Shihab
+Total Tasks: 670
+Average Tasks completed: 55.833333333333336
+Maximum Tasks completed: 92
+Minimum Tasks completed: 9
+Minimum Tasks completed: 9
+Madian Tasks completed: 56.5
+Mode Tasks: 9
+Consistency Score of Employee: 2.273447297005131
+Performance Trend of Enployee: Improving
+--------****-------
+
+
+Performance Summary of --> Jayed Khan :
+Employee id: 8
+Employee name: Jayed Khan
+Total Tasks: 663
+Average Tasks completed: 55.25
+Maximum Tasks completed: 90
+Minimum Tasks completed: 11
+Minimum Tasks completed: 11
+Madian Tasks completed: 57.5
+Mode Tasks: 11
+Consistency Score of Employee: 2.030087581915014
+Performance Trend of Enployee: Improving
+--------****-------
+
+
+Performance Summary of --> Israk :
+Employee id: 10
+Employee name: Israk
+Total Tasks: 655
+Average Tasks completed: 54.583333333333336
+Maximum Tasks completed: 95
+Minimum Tasks completed: 14
+Minimum Tasks completed: 14
+Madian Tasks completed: 60.0
+Mode Tasks: 14
+Consistency Score of Employee: 2.170219018664123
+Performance Trend of Enployee: Declining
+--------****-------
+
+
+Performance Summary of --> Esty :
+Employee id: 9
+Employee name: Esty
+Total Tasks: 637
+Average Tasks completed: 53.083333333333336
+Maximum Tasks completed: 97
+Minimum Tasks completed: 13
+Minimum Tasks completed: 13
+Madian Tasks completed: 50.0
+Mode Tasks: 13
+Consistency Score of Employee: 1.9245942679446184
+Performance Trend of Enployee: Improving
+--------****-------
+
+
+Performance Summary of --> Mahbub :
+Employee id: 14
+Employee name: Mahbub
+Total Tasks: 615
+Average Tasks completed: 51.25
+Maximum Tasks completed: 99
+Minimum Tasks completed: 3
+Minimum Tasks completed: 3
+Madian Tasks completed: 56.0
+Mode Tasks: 3
+Consistency Score of Employee: 1.6480711403774957
+Performance Trend of Enployee: Declining
+--------****-------
+
+
+Performance Summary of --> Rizwan :
+Employee id: 12
+Employee name: Rizwan
+Total Tasks: 614
+Average Tasks completed: 51.166666666666664
+Maximum Tasks completed: 100
+Minimum Tasks completed: 4
+Minimum Tasks completed: 4
+Madian Tasks completed: 52.0
+Mode Tasks: 4
+Consistency Score of Employee: 1.8562475469561541
+Performance Trend of Enployee: Declining
+--------****-------
+
+
+Performance Summary of --> Al Jaber :
+Employee id: 7
+Employee name: Al Jaber
+Total Tasks: 599
+Average Tasks completed: 49.916666666666664
+Maximum Tasks completed: 98
+Minimum Tasks completed: 2
+Minimum Tasks completed: 2
+Madian Tasks completed: 55.0
+Mode Tasks: 2
+Consistency Score of Employee: 1.7194833905812932
+Performance Trend of Enployee: Declining
+--------****-------
+
+
+Performance Summary of --> Sani :
+Employee id: 15
+Employee name: Sani
+Total Tasks: 598
+Average Tasks completed: 49.833333333333336
+Maximum Tasks completed: 99
+Minimum Tasks completed: 10
+Minimum Tasks completed: 10
+Madian Tasks completed: 45.0
+Mode Tasks: 10
+Consistency Score of Employee: 1.5377883524063771
+Performance Trend of Enployee: Stable
+--------****-------
+
+
+Performance Summary of --> Sandipon :
+Employee id: 2
+Employee name: Sandipon
+Total Tasks: 589
+Average Tasks completed: 49.083333333333336
+Maximum Tasks completed: 95
+Minimum Tasks completed: 11
+Minimum Tasks completed: 11
+Madian Tasks completed: 46.5
+Mode Tasks: 11
+Consistency Score of Employee: 1.7710541555510166
+Performance Trend of Enployee: Improving
+--------****-------
+
+
+Performance Summary of --> Md Joynal Abedin :
+Employee id: 1
+Employee name: Md Joynal Abedin
+Total Tasks: 577
+Average Tasks completed: 48.083333333333336
+Maximum Tasks completed: 94
+Minimum Tasks completed: 3
+Minimum Tasks completed: 3
+Madian Tasks completed: 48.5
+Mode Tasks: 3
+Consistency Score of Employee: 1.4746137857446937
+Performance Trend of Enployee: Improving
+--------****-------
+
+
+Performance Summary of --> Rakibul :
+Employee id: 13
+Employee name: Rakibul
+Total Tasks: 548
+Average Tasks completed: 45.666666666666664
+Maximum Tasks completed: 90
+Minimum Tasks completed: 2
+Minimum Tasks completed: 2
+Madian Tasks completed: 45.5
+Mode Tasks: 2
+Consistency Score of Employee: 1.6336751264465026
+Performance Trend of Enployee: Declining
+--------****-------
+
+
+Performance Summary of --> Towhidul :
+Employee id: 5
+Employee name: Towhidul
+Total Tasks: 529
+Average Tasks completed: 44.083333333333336
+Maximum Tasks completed: 92
+Minimum Tasks completed: 7
+Minimum Tasks completed: 7
+Madian Tasks completed: 43.5
+Mode Tasks: 7
+Consistency Score of Employee: 1.7413096073873262
+Performance Trend of Enployee: Declining
+--------****-------
+
+
